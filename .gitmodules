@@ -1,0 +1,14 @@
+[submodule "submodules/contracts"]
+	path = submodules/contracts
+	url = https://github.com/web3sdks/contracts
+	branch = main
+[submodule "submodules/python"]
+	path = submodules/python
+	url = https://github.com/web3sdks/python-sdk.git
+	branch = main
+[submodule "submodules/go"]
+	path = submodules/go
+	url = https://github.com/web3sdks/go-sdk.git
+[submodule "submodules/web3"]
+	path = submodules/web3
+	url = https://github.com/web3sdks/web3.git

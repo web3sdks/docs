@@ -1,0 +1,1294 @@
+[
+  {
+    "name": "3d-asset-nft-script",
+    "html_url": "https://github.com/web3sdks-template/3d-asset-nft-script",
+    "description": "Use the SDK to mint 3D asset NFTs for your Unity games!",
+    "created_at": "2022-12-11T23:41:42Z",
+    "updated_at": "2022-12-12T02:02:29Z",
+    "clone_url": "https://github.com/web3sdks-template/3d-asset-nft-script.git",
+    "topics": [],
+    "language": "TypeScript",
+    "stargazers_count": 1,
+    "is_template": false,
+    "homepage": null
+  },
+  {
+    "name": "airdrop-nfts-to-holders",
+    "html_url": "https://github.com/web3sdks-template/airdrop-nfts-to-holders",
+    "description": "Airdrop ERC1155 NFTs to wallet addresses that hold an NFT from your ERC721 Collection!",
+    "created_at": "2022-10-24T04:09:42Z",
+    "updated_at": "2022-10-24T07:04:01Z",
+    "clone_url": "https://github.com/web3sdks-template/airdrop-nfts-to-holders.git",
+    "topics": [],
+    "language": "JavaScript",
+    "stargazers_count": 1,
+    "is_template": false,
+    "homepage": null
+  },
+  {
+    "name": "artblocks",
+    "html_url": "https://github.com/web3sdks-template/artblocks",
+    "description": "Create Generative Art NFTs with centralized metadata using the Contracts SDK",
+    "created_at": "2022-08-23T02:16:31Z",
+    "updated_at": "2022-10-24T20:00:43Z",
+    "clone_url": "https://github.com/web3sdks-template/artblocks.git",
+    "topics": [
+      "contract-kit",
+      "extensions"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 3,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "burn1155-mint721",
+    "html_url": "https://github.com/web3sdks-template/burn1155-mint721",
+    "description": "Similar to the MAYC collection, allow users who hold an NFT from your original NFT Collection to burn an ERC-1155 NFT collection to claim an NFT from your new NFT Collection!",
+    "created_at": "2022-09-12T11:18:00Z",
+    "updated_at": "2022-11-23T20:01:12Z",
+    "clone_url": "https://github.com/web3sdks-template/burn1155-mint721.git",
+    "topics": [
+      "contract-kit",
+      "erc1155",
+      "erc721",
+      "extensions"
+    ],
+    "language": "CSS",
+    "stargazers_count": 8,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "community-rewards",
+    "html_url": "https://github.com/web3sdks-template/community-rewards",
+    "description": "Reward your community using NFTs and web3sdks's signature based minting.",
+    "created_at": "2022-05-22T23:33:24Z",
+    "updated_at": "2022-12-14T06:11:15Z",
+    "clone_url": "https://github.com/web3sdks-template/community-rewards.git",
+    "topics": [
+      "nft-collection",
+      "signature-based-minting"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 15,
+    "is_template": false,
+    "homepage": "https://community-rewards.web3sdks-template.com"
+  },
+  {
+    "name": "connect-wallet-button",
+    "html_url": "https://github.com/web3sdks-template/connect-wallet-button",
+    "description": "Learn how to use the ConnectWallet Button component from the React SDK!",
+    "created_at": "2022-08-23T04:29:36Z",
+    "updated_at": "2022-12-12T14:41:49Z",
+    "clone_url": "https://github.com/web3sdks-template/connect-wallet-button.git",
+    "topics": [
+      "ui-components"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 4,
+    "is_template": false,
+    "homepage": "https://connectwallet.web3sdks-template.com/"
+  },
+  {
+    "name": "contract-hub",
+    "html_url": "https://github.com/web3sdks-template/contract-hub",
+    "description": "Demonstration of all web3sdks's pre-built contracts with TypeScript + Getting started snippets",
+    "created_at": "2022-05-03T10:20:11Z",
+    "updated_at": "2022-12-17T13:25:33Z",
+    "clone_url": "https://github.com/web3sdks-template/contract-hub.git",
+    "topics": [
+      "demo",
+      "web3sdks"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 10,
+    "is_template": false,
+    "homepage": "https://contract-hub.web3sdks-template.com/"
+  },
+  {
+    "name": "contracts-sdk-with-extensions",
+    "html_url": "https://github.com/web3sdks-template/contracts-sdk-with-extensions",
+    "description": "Build your own NFT Collection with Solidity using web3sdks deploy and the web3sdks SDK",
+    "created_at": "2022-06-16T01:35:06Z",
+    "updated_at": "2022-09-29T01:22:59Z",
+    "clone_url": "https://github.com/web3sdks-template/contracts-sdk-with-extensions.git",
+    "topics": [
+      "contract-kit",
+      "extensions",
+      "web3sdks-deploy"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "covalent",
+    "html_url": "https://github.com/web3sdks-template/covalent",
+    "description": "Load the tokens a wallet owns using the covalent API",
+    "created_at": "2022-07-07T07:04:15Z",
+    "updated_at": "2022-10-24T03:20:33Z",
+    "clone_url": "https://github.com/web3sdks-template/covalent.git",
+    "topics": [
+      "wallets"
+    ],
+    "language": "CSS",
+    "stargazers_count": 1,
+    "is_template": false,
+    "homepage": "https://covalent.web3sdks-template.com"
+  },
+  {
+    "name": "cra-javascript-solana-starter",
+    "html_url": "https://github.com/web3sdks-template/cra-javascript-solana-starter",
+    "description": "web3sdks Solana starter project with Create React App & JavaScript",
+    "created_at": "2022-10-13T20:52:33Z",
+    "updated_at": "2022-11-23T22:16:12Z",
+    "clone_url": "https://github.com/web3sdks-template/cra-javascript-solana-starter.git",
+    "topics": [
+      "javascript",
+      "react",
+      "solana",
+      "starter-kit"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "is_template": false,
+    "homepage": "cra-javascript-solana-starter.vercel.app"
+  },
+  {
+    "name": "cra-javascript-starter",
+    "html_url": "https://github.com/web3sdks-template/cra-javascript-starter",
+    "description": "web3sdks starter project with Create React App & JavaScript",
+    "created_at": "2022-03-18T00:31:36Z",
+    "updated_at": "2022-12-17T00:39:13Z",
+    "clone_url": "https://github.com/web3sdks-template/cra-javascript-starter.git",
+    "topics": [
+      "javascript",
+      "react",
+      "starter-kit"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 18,
+    "is_template": true,
+    "homepage": "https://cra-javascript-starter.web3sdks-template.com"
+  },
+  {
+    "name": "cra-typescript-solana-starter",
+    "html_url": "https://github.com/web3sdks-template/cra-typescript-solana-starter",
+    "description": "Starter kit for Create React App, web3sdks, Solana, and TypeScript",
+    "created_at": "2022-11-17T03:22:45Z",
+    "updated_at": "2022-11-29T02:53:16Z",
+    "clone_url": "https://github.com/web3sdks-template/cra-typescript-solana-starter.git",
+    "topics": [],
+    "language": "TypeScript",
+    "stargazers_count": 1,
+    "is_template": false,
+    "homepage": "cra-typescript-solana-starter.vercel.app"
+  },
+  {
+    "name": "cra-typescript-starter",
+    "html_url": "https://github.com/web3sdks-template/cra-typescript-starter",
+    "description": "web3sdks starter project with Create React App & TypeScript",
+    "created_at": "2022-03-17T23:44:42Z",
+    "updated_at": "2022-12-03T13:20:43Z",
+    "clone_url": "https://github.com/web3sdks-template/cra-typescript-starter.git",
+    "topics": [
+      "react",
+      "starter-kit",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 5,
+    "is_template": true,
+    "homepage": "https://cra-typescript-starter.web3sdks-template.com"
+  },
+  {
+    "name": "creator-platform",
+    "html_url": "https://github.com/web3sdks-template/creator-platform",
+    "description": "Authenticate users into a web2 database to build a hybrid web2+web3 creator platform!",
+    "created_at": "2022-09-23T01:22:38Z",
+    "updated_at": "2022-12-16T11:11:32Z",
+    "clone_url": "https://github.com/web3sdks-template/creator-platform.git",
+    "topics": [
+      "auth",
+      "prisma",
+      "web2"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 6,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "custom-currency-claim-conditions",
+    "html_url": "https://github.com/web3sdks-template/custom-currency-claim-conditions",
+    "description": "Set up your claim conditions so that holders of your NFT collection can purchase in a custom token.",
+    "created_at": "2022-11-17T03:36:49Z",
+    "updated_at": "2022-12-18T21:00:21Z",
+    "clone_url": "https://github.com/web3sdks-template/custom-currency-claim-conditions.git",
+    "topics": [],
+    "language": "JavaScript",
+    "stargazers_count": 1,
+    "is_template": false,
+    "homepage": null
+  },
+  {
+    "name": "custom-dashboard",
+    "html_url": "https://github.com/web3sdks-template/custom-dashboard",
+    "description": "Use web3sdks's sdk.deployer to deploy any pre-built contract dynamically with no private keys!",
+    "created_at": "2022-05-11T05:41:53Z",
+    "updated_at": "2022-09-29T01:22:48Z",
+    "clone_url": "https://github.com/web3sdks-template/custom-dashboard.git",
+    "topics": [
+      "contracts",
+      "sdk",
+      "sdk-deployer"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 3,
+    "is_template": false,
+    "homepage": "https://custom-dashboard.web3sdks-template.com"
+  },
+  {
+    "name": "dao",
+    "html_url": "https://github.com/web3sdks-template/dao",
+    "description": "Build a DAO using web3sdks's vote, token, and edition drop contracts.",
+    "created_at": "2022-05-17T11:42:42Z",
+    "updated_at": "2022-10-30T18:19:37Z",
+    "clone_url": "https://github.com/web3sdks-template/dao.git",
+    "topics": [
+      "edition-drop",
+      "token",
+      "vote"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 13,
+    "is_template": false,
+    "homepage": "https://dao.web3sdks-template.com"
+  },
+  {
+    "name": "discord-role-granter",
+    "html_url": "https://github.com/web3sdks-template/discord-role-granter",
+    "description": "Grant users who own NFTs a role in your Discord server!",
+    "created_at": "2022-07-22T03:52:48Z",
+    "updated_at": "2022-12-08T12:50:13Z",
+    "clone_url": "https://github.com/web3sdks-template/discord-role-granter.git",
+    "topics": [
+      "auth",
+      "authentication",
+      "wallet-connection"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 5,
+    "is_template": false,
+    "homepage": "https://discord-role-granter.web3sdks-template.com/"
+  },
+  {
+    "name": "dynamic-free-mint",
+    "html_url": "https://github.com/web3sdks-template/dynamic-free-mint",
+    "description": null,
+    "created_at": "2022-11-21T19:51:22Z",
+    "updated_at": "2022-11-21T19:51:35Z",
+    "clone_url": "https://github.com/web3sdks-template/dynamic-free-mint.git",
+    "topics": [],
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "is_template": false,
+    "homepage": null
+  },
+  {
+    "name": "dynamic-pricing",
+    "html_url": "https://github.com/web3sdks-template/dynamic-pricing",
+    "description": "Set a dynamic pricing for your Signature Drop collection NFTs",
+    "created_at": "2022-11-01T16:14:54Z",
+    "updated_at": "2022-11-01T16:15:53Z",
+    "clone_url": "https://github.com/web3sdks-template/dynamic-pricing.git",
+    "topics": [],
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "is_template": false,
+    "homepage": null
+  },
+  {
+    "name": "edition-drop",
+    "html_url": "https://github.com/web3sdks-template/edition-drop",
+    "description": "Starter kit for using the Edition Drop Pre-Built contract",
+    "created_at": "2022-07-05T01:19:38Z",
+    "updated_at": "2022-12-17T18:27:34Z",
+    "clone_url": "https://github.com/web3sdks-template/edition-drop.git",
+    "topics": [
+      "edition-drop"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 5,
+    "is_template": false,
+    "homepage": "https://edition-drop.web3sdks-template.com"
+  },
+  {
+    "name": "firebase-auth",
+    "html_url": "https://github.com/web3sdks-template/firebase-auth",
+    "description": "Integrate sign in with Ethereum using web3sdks Auth into your Firebase application",
+    "created_at": "2022-09-09T03:34:01Z",
+    "updated_at": "2022-11-11T21:57:54Z",
+    "clone_url": "https://github.com/web3sdks-template/firebase-auth.git",
+    "topics": [
+      "auth",
+      "firebase",
+      "web2"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 7,
+    "is_template": false,
+    "homepage": "https://firebase-auth.web3sdks-template.com/"
+  },
+  {
+    "name": "forge-starter",
+    "html_url": "https://github.com/web3sdks-template/forge-starter",
+    "description": "web3sdks contracts starter project for Forge",
+    "created_at": "2022-08-02T21:35:35Z",
+    "updated_at": "2022-09-29T01:29:55Z",
+    "clone_url": "https://github.com/web3sdks-template/forge-starter.git",
+    "topics": [
+      "forge",
+      "solidity",
+      "starter-kit"
+    ],
+    "language": "Solidity",
+    "stargazers_count": 1,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "full-stack-web3-app",
+    "html_url": "https://github.com/web3sdks-template/full-stack-web3-app",
+    "description": "Build an application on top of a custom contract using the web3sdks SDK",
+    "created_at": "2022-06-15T06:28:28Z",
+    "updated_at": "2022-12-14T18:12:53Z",
+    "clone_url": "https://github.com/web3sdks-template/full-stack-web3-app.git",
+    "topics": [
+      "contract-kit",
+      "extensions",
+      "web3sdks-deploy"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 4,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "getting-started",
+    "html_url": "https://github.com/web3sdks-template/getting-started",
+    "description": "Get started with web3sdks by building and deploying a full project including a smart contract and react application.",
+    "created_at": "2022-09-15T05:36:12Z",
+    "updated_at": "2022-09-29T06:38:49Z",
+    "clone_url": "https://github.com/web3sdks-template/getting-started.git",
+    "topics": [
+      "contract-kit",
+      "extensions",
+      "ui-components"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "github-contributor-nft-rewards",
+    "html_url": "https://github.com/web3sdks-template/github-contributor-nft-rewards",
+    "description": "Use signature-based minting to allow users who have contributed to your github repositories to claim an NFT!",
+    "created_at": "2022-08-29T23:19:26Z",
+    "updated_at": "2022-11-05T01:28:28Z",
+    "clone_url": "https://github.com/web3sdks-template/github-contributor-nft-rewards.git",
+    "topics": [
+      "auth",
+      "signature-based-minting"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 8,
+    "is_template": false,
+    "homepage": "https://github-contributor-nft-rewards.web3sdks-template.com/"
+  },
+  {
+    "name": "hardhat-javascript-starter",
+    "html_url": "https://github.com/web3sdks-template/hardhat-javascript-starter",
+    "description": "web3sdks contracts starter project for Hardhat & TypeScript",
+    "created_at": "2022-07-29T02:19:53Z",
+    "updated_at": "2022-09-29T01:30:17Z",
+    "clone_url": "https://github.com/web3sdks-template/hardhat-javascript-starter.git",
+    "topics": [
+      "hardhat",
+      "solidity",
+      "starter-kit"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 2,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "hardhat-typescript-starter",
+    "html_url": "https://github.com/web3sdks-template/hardhat-typescript-starter",
+    "description": "web3sdks contracts starter project for Hardhat & TypeScript",
+    "created_at": "2022-07-29T01:58:49Z",
+    "updated_at": "2022-09-29T01:32:03Z",
+    "clone_url": "https://github.com/web3sdks-template/hardhat-typescript-starter.git",
+    "topics": [
+      "hardhat",
+      "solidity",
+      "starter-kit"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 2,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "ipfs-media-renderer",
+    "html_url": "https://github.com/web3sdks-template/ipfs-media-renderer",
+    "description": "Render any asset stored on IPFS using our SDK's UI Components",
+    "created_at": "2022-10-31T02:38:56Z",
+    "updated_at": "2022-10-31T03:05:08Z",
+    "clone_url": "https://github.com/web3sdks-template/ipfs-media-renderer.git",
+    "topics": [
+      "react",
+      "ui-components"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "lens",
+    "html_url": "https://github.com/web3sdks-template/lens",
+    "description": "Starter kit for using Lens Protocol with the web3sdks SDK!",
+    "created_at": "2022-10-27T10:15:02Z",
+    "updated_at": "2022-12-16T11:25:20Z",
+    "clone_url": "https://github.com/web3sdks-template/lens.git",
+    "topics": [
+      "lens-protocol"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 19,
+    "is_template": false,
+    "homepage": "https://lens.web3sdks-template.com/"
+  },
+  {
+    "name": "login-with-wallet",
+    "html_url": "https://github.com/web3sdks-template/login-with-wallet",
+    "description": "Authenticate to a backend using the sign in with ethereum standard provided by web3sdks auth",
+    "created_at": "2022-06-03T16:04:25Z",
+    "updated_at": "2022-12-14T06:13:25Z",
+    "clone_url": "https://github.com/web3sdks-template/login-with-wallet.git",
+    "topics": [
+      "auth",
+      "wallet-connection"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 14,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "magic-link",
+    "html_url": "https://github.com/web3sdks-template/magic-link",
+    "description": "Connect users to your dApp using just their email using web3sdks's useMagic hook!",
+    "created_at": "2022-04-27T07:03:18Z",
+    "updated_at": "2022-12-14T06:11:25Z",
+    "clone_url": "https://github.com/web3sdks-template/magic-link.git",
+    "topics": [
+      "nextjs",
+      "typescript",
+      "wallet-connection"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 10,
+    "is_template": false,
+    "homepage": "https://magic-link.web3sdks-template.com"
+  },
+  {
+    "name": "makeswift",
+    "html_url": "https://github.com/web3sdks-template/makeswift",
+    "description": "Use Makeswift to build a web3 application using a drag-and-drop web builder",
+    "created_at": "2022-07-25T21:35:43Z",
+    "updated_at": "2022-12-17T17:43:50Z",
+    "clone_url": "https://github.com/web3sdks-template/makeswift.git",
+    "topics": [
+      "no-code"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 3,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "marketplace",
+    "html_url": "https://github.com/web3sdks-template/marketplace",
+    "description": "An NFT Marketplace where you can list NFTs for direct sale or for auction. Users can come and bid on your listings or buy your NFTs, similar to OpenSea.",
+    "created_at": "2022-04-27T23:59:14Z",
+    "updated_at": "2022-12-19T05:40:07Z",
+    "clone_url": "https://github.com/web3sdks-template/marketplace.git",
+    "topics": [
+      "marketplace",
+      "nextjs",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 40,
+    "is_template": false,
+    "homepage": "https://marketplace.web3sdks-template.com"
+  },
+  {
+    "name": "marketplace-with-signature-based-minting",
+    "html_url": "https://github.com/web3sdks-template/marketplace-with-signature-based-minting",
+    "description": "Mint and list NFTs on to a marketplace using signature-based minting",
+    "created_at": "2022-07-26T07:48:49Z",
+    "updated_at": "2022-12-12T14:06:56Z",
+    "clone_url": "https://github.com/web3sdks-template/marketplace-with-signature-based-minting.git",
+    "topics": [
+      "marketplace"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 7,
+    "is_template": false,
+    "homepage": "https://marketplace-with-signature-based-minting.web3sdks-template.com/"
+  },
+  {
+    "name": "multiwrap",
+    "html_url": "https://github.com/web3sdks-template/multiwrap",
+    "description": "Wrap ERC-1155, ERC-721 and ERC-20 tokens in to one ERC-721 token",
+    "created_at": "2022-06-03T00:27:59Z",
+    "updated_at": "2022-10-26T19:21:09Z",
+    "clone_url": "https://github.com/web3sdks-template/multiwrap.git",
+    "topics": [
+      "multiwrap"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 5,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "next-javascript-solana-starter",
+    "html_url": "https://github.com/web3sdks-template/next-javascript-solana-starter",
+    "description": "Starter Kit for Next.js + JavaScript + Solana",
+    "created_at": "2022-10-13T00:08:23Z",
+    "updated_at": "2022-11-23T14:14:49Z",
+    "clone_url": "https://github.com/web3sdks-template/next-javascript-solana-starter.git",
+    "topics": [
+      "solana",
+      "starter-kit"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 3,
+    "is_template": false,
+    "homepage": "https://next-javascript-solana-starter.web3sdks-template.com/"
+  },
+  {
+    "name": "next-javascript-starter",
+    "html_url": "https://github.com/web3sdks-template/next-javascript-starter",
+    "description": "web3sdks starter project with Next.js & JavaScript",
+    "created_at": "2022-03-17T23:05:32Z",
+    "updated_at": "2022-12-14T21:37:22Z",
+    "clone_url": "https://github.com/web3sdks-template/next-javascript-starter.git",
+    "topics": [
+      "javascript",
+      "nextjs",
+      "react",
+      "starter-kit"
+    ],
+    "language": "CSS",
+    "stargazers_count": 22,
+    "is_template": true,
+    "homepage": "https://next-javascript-starter.web3sdks-template.com"
+  },
+  {
+    "name": "next-typescript-solana-starter",
+    "html_url": "https://github.com/web3sdks-template/next-typescript-solana-starter",
+    "description": "Starter Kit for Next.js + TypeScript + Solana",
+    "created_at": "2022-09-20T06:27:03Z",
+    "updated_at": "2022-11-23T12:32:47Z",
+    "clone_url": "https://github.com/web3sdks-template/next-typescript-solana-starter.git",
+    "topics": [
+      "solana",
+      "starter-kit"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 6,
+    "is_template": false,
+    "homepage": "https://next-typescript-solana-starter.web3sdks-template.com/"
+  },
+  {
+    "name": "next-typescript-starter",
+    "html_url": "https://github.com/web3sdks-template/next-typescript-starter",
+    "description": "web3sdks starter project with Next.js & TypeScript",
+    "created_at": "2022-03-17T18:18:45Z",
+    "updated_at": "2022-12-17T13:06:51Z",
+    "clone_url": "https://github.com/web3sdks-template/next-typescript-starter.git",
+    "topics": [
+      "nextjs",
+      "starter-kit",
+      "typescript",
+      "web3",
+      "web3-dapp",
+      "web3-javascript",
+      "web3-react",
+      "web3js"
+    ],
+    "language": "CSS",
+    "stargazers_count": 32,
+    "is_template": true,
+    "homepage": "https://next-typescript-starter.web3sdks-template.com"
+  },
+  {
+    "name": "nft-drop",
+    "html_url": "https://github.com/web3sdks-template/nft-drop",
+    "description": "Create your own custom NFT minting page using web3sdks's NFT Drop contract",
+    "created_at": "2022-05-16T01:17:47Z",
+    "updated_at": "2022-12-19T04:39:04Z",
+    "clone_url": "https://github.com/web3sdks-template/nft-drop.git",
+    "topics": [
+      "nft-drop"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 58,
+    "is_template": false,
+    "homepage": "https://custom-minting-page.web3sdks-template.com"
+  },
+  {
+    "name": "nft-gated-website",
+    "html_url": "https://github.com/web3sdks-template/nft-gated-website",
+    "description": "Restrict access to content based on the ownership of an NFT",
+    "created_at": "2022-04-08T17:59:57Z",
+    "updated_at": "2022-12-19T21:56:55Z",
+    "clone_url": "https://github.com/web3sdks-template/nft-gated-website.git",
+    "topics": [
+      "auth",
+      "authentication",
+      "edition-drop",
+      "javascript",
+      "react",
+      "wallet-connection"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 73,
+    "is_template": false,
+    "homepage": "https://nft-gated-website.web3sdks-template.com"
+  },
+  {
+    "name": "nft-gated-website-solana",
+    "html_url": "https://github.com/web3sdks-template/nft-gated-website-solana",
+    "description": "Restrict access to content on your website to NFT Holders in Solana!",
+    "created_at": "2022-10-13T03:16:16Z",
+    "updated_at": "2022-11-16T05:41:47Z",
+    "clone_url": "https://github.com/web3sdks-template/nft-gated-website-solana.git",
+    "topics": [
+      "auth",
+      "solana"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 6,
+    "is_template": false,
+    "homepage": "https://nft-gated-website-solana.web3sdks-template.com"
+  },
+  {
+    "name": "nft-staking-app",
+    "html_url": "https://github.com/web3sdks-template/nft-staking-app",
+    "description": "An NFT Staking contract deployed using web3sdks deploy, where users stake their ERC721 tokens and earn ERC20 tokens in return!",
+    "created_at": "2022-05-31T05:09:19Z",
+    "updated_at": "2022-12-20T03:50:08Z",
+    "clone_url": "https://github.com/web3sdks-template/nft-staking-app.git",
+    "topics": [
+      "contract-kit",
+      "erc20",
+      "erc721",
+      "ethereum",
+      "nft-staking",
+      "solidity",
+      "staking",
+      "web3sdks-deploy"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 73,
+    "is_template": false,
+    "homepage": "https://nft-staking-contract.web3sdks-template.com/"
+  },
+  {
+    "name": "on-chain-nft-metadata",
+    "html_url": "https://github.com/web3sdks-template/on-chain-nft-metadata",
+    "description": "Create & deploy an ERC721 NFT Collection with on-chain NFT metadata with ContractKit ",
+    "created_at": "2022-11-09T04:12:00Z",
+    "updated_at": "2022-11-09T04:16:02Z",
+    "clone_url": "https://github.com/web3sdks-template/on-chain-nft-metadata.git",
+    "topics": [],
+    "language": "Solidity",
+    "stargazers_count": 0,
+    "is_template": false,
+    "homepage": null
+  },
+  {
+    "name": "pack-creation-script",
+    "html_url": "https://github.com/web3sdks-template/pack-creation-script",
+    "description": null,
+    "created_at": "2022-11-30T03:55:04Z",
+    "updated_at": "2022-11-30T04:03:33Z",
+    "clone_url": "https://github.com/web3sdks-template/pack-creation-script.git",
+    "topics": [],
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "is_template": false,
+    "homepage": null
+  },
+  {
+    "name": "packs",
+    "html_url": "https://github.com/web3sdks-template/packs",
+    "description": "Bundle NFTs and Tokens together in Packs that users can open and receive randomly selected tokens from those that were bundled!",
+    "created_at": "2022-06-21T07:50:46Z",
+    "updated_at": "2022-11-05T00:49:59Z",
+    "clone_url": "https://github.com/web3sdks-template/packs.git",
+    "topics": [
+      "pack"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 3,
+    "is_template": false,
+    "homepage": "https://packs.web3sdks-template.com"
+  },
+  {
+    "name": "play-to-earn-game",
+    "html_url": "https://github.com/web3sdks-template/play-to-earn-game",
+    "description": "Use web3sdks's token, edition drop, and a custom contract using web3sdks deploy to build a Play-to-Earn game!",
+    "created_at": "2022-06-22T11:24:30Z",
+    "updated_at": "2022-12-20T10:22:58Z",
+    "clone_url": "https://github.com/web3sdks-template/play-to-earn-game.git",
+    "topics": [
+      "contract-kit",
+      "erc1155",
+      "erc20",
+      "erc721",
+      "extensions",
+      "web3sdks-deploy"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 26,
+    "is_template": false,
+    "homepage": "https://play-to-earn.web3sdks-template.com"
+  },
+  {
+    "name": "react-native-javascript-starter",
+    "html_url": "https://github.com/web3sdks-template/react-native-javascript-starter",
+    "description": null,
+    "created_at": "2022-11-09T06:00:00Z",
+    "updated_at": "2022-11-10T20:22:32Z",
+    "clone_url": "https://github.com/web3sdks-template/react-native-javascript-starter.git",
+    "topics": [],
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "is_template": false,
+    "homepage": null
+  },
+  {
+    "name": "react-native-typescript-starter",
+    "html_url": "https://github.com/web3sdks-template/react-native-typescript-starter",
+    "description": null,
+    "created_at": "2022-11-02T02:03:17Z",
+    "updated_at": "2022-11-28T02:00:57Z",
+    "clone_url": "https://github.com/web3sdks-template/react-native-typescript-starter.git",
+    "topics": [],
+    "language": "TypeScript",
+    "stargazers_count": 6,
+    "is_template": false,
+    "homepage": null
+  },
+  {
+    "name": "reddit",
+    "html_url": "https://github.com/web3sdks-template/reddit",
+    "description": "Create a seamless user experience with email sign in and pay the gas for minting NFTs.",
+    "created_at": "2022-11-05T01:31:43Z",
+    "updated_at": "2022-11-07T21:50:29Z",
+    "clone_url": "https://github.com/web3sdks-template/reddit.git",
+    "topics": [
+      "nft-drop"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 1,
+    "is_template": false,
+    "homepage": "https://reddit.web3sdks-template.com/"
+  },
+  {
+    "name": "shopify-discount-codes",
+    "html_url": "https://github.com/web3sdks-template/shopify-discount-codes",
+    "description": "Grant users who hold an NFT from your collection a discount code they can use in your Shopify store!",
+    "created_at": "2022-10-04T23:36:42Z",
+    "updated_at": "2022-10-04T23:37:36Z",
+    "clone_url": "https://github.com/web3sdks-template/shopify-discount-codes.git",
+    "topics": [],
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "is_template": false,
+    "homepage": null
+  },
+  {
+    "name": "shopify-sell-nfts",
+    "html_url": "https://github.com/web3sdks-template/shopify-sell-nfts",
+    "description": "Sell NFTs in FIAT currency using a Shopify store and webhooks!",
+    "created_at": "2022-10-06T01:28:05Z",
+    "updated_at": "2022-12-11T13:58:57Z",
+    "clone_url": "https://github.com/web3sdks-template/shopify-sell-nfts.git",
+    "topics": [],
+    "language": "JavaScript",
+    "stargazers_count": 2,
+    "is_template": false,
+    "homepage": null
+  },
+  {
+    "name": "sign-in-button",
+    "html_url": "https://github.com/web3sdks-template/sign-in-button",
+    "description": "Simple starter kit for Auth and the ConnectWallet button",
+    "created_at": "2022-10-18T03:16:26Z",
+    "updated_at": "2022-10-24T05:40:52Z",
+    "clone_url": "https://github.com/web3sdks-template/sign-in-button.git",
+    "topics": [],
+    "language": "JavaScript",
+    "stargazers_count": 1,
+    "is_template": false,
+    "homepage": "sign-in-button.vercel.app"
+  },
+  {
+    "name": "sign-in-with-solana",
+    "html_url": "https://github.com/web3sdks-template/sign-in-with-solana",
+    "description": "Verify a user owns their wallet in a server-side environment using Sign In With Solana!",
+    "created_at": "2022-10-13T01:04:41Z",
+    "updated_at": "2022-10-13T05:17:20Z",
+    "clone_url": "https://github.com/web3sdks-template/sign-in-with-solana.git",
+    "topics": [
+      "auth",
+      "solana"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 1,
+    "is_template": false,
+    "homepage": "https://sign-in-with-solana.web3sdks-template.com"
+  },
+  {
+    "name": "signature-based-minting",
+    "html_url": "https://github.com/web3sdks-template/signature-based-minting",
+    "description": "Create a community-made NFT collection with restrictions that you specify using signature based minting in web3sdks's NFT Collection contract.",
+    "created_at": "2022-04-07T20:17:43Z",
+    "updated_at": "2022-12-20T14:11:32Z",
+    "clone_url": "https://github.com/web3sdks-template/signature-based-minting.git",
+    "topics": [
+      "nextjs",
+      "nft-collection",
+      "signature-based-minting",
+      "typescript"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 21,
+    "is_template": false,
+    "homepage": "https://signature-based-minting.web3sdks-template.com"
+  },
+  {
+    "name": "signature-drop",
+    "html_url": "https://github.com/web3sdks-template/signature-drop",
+    "description": "Use the signature drop pre-built contract to claim NFTs under a claim phase as well as claim using signature-based minting!",
+    "created_at": "2022-07-14T23:58:52Z",
+    "updated_at": "2022-12-13T11:58:52Z",
+    "clone_url": "https://github.com/web3sdks-template/signature-drop.git",
+    "topics": [
+      "signature-drop"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 10,
+    "is_template": false,
+    "homepage": "http://signature-drop.web3sdks-template.com/"
+  },
+  {
+    "name": "solana-hub",
+    "html_url": "https://github.com/web3sdks-template/solana-hub",
+    "description": "Explore what you can do with our Solana SDK!",
+    "created_at": "2022-09-20T02:19:53Z",
+    "updated_at": "2022-09-20T10:18:09Z",
+    "clone_url": "https://github.com/web3sdks-template/solana-hub.git",
+    "topics": [
+      "solana"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 3,
+    "is_template": false,
+    "homepage": "https://solana-hub.web3sdks-template.com/"
+  },
+  {
+    "name": "solana-nft-gallery",
+    "html_url": "https://github.com/web3sdks-template/solana-nft-gallery",
+    "description": "Build an NFT Gallery showcasing all of your collection's NFTs on Solana!",
+    "created_at": "2022-10-26T01:06:53Z",
+    "updated_at": "2022-10-26T01:25:43Z",
+    "clone_url": "https://github.com/web3sdks-template/solana-nft-gallery.git",
+    "topics": [
+      "nft-collection",
+      "solana"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "is_template": false,
+    "homepage": "https://solana-nft-gallery.web3sdks-template.com"
+  },
+  {
+    "name": "solana-token-deploy",
+    "html_url": "https://github.com/web3sdks-template/solana-token-deploy",
+    "description": "Deploy a token program using the TypeScript SDK",
+    "created_at": "2022-09-27T08:25:47Z",
+    "updated_at": "2022-10-29T23:00:52Z",
+    "clone_url": "https://github.com/web3sdks-template/solana-token-deploy.git",
+    "topics": [
+      "solana"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 4,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "solidity-hello-world",
+    "html_url": "https://github.com/web3sdks-template/solidity-hello-world",
+    "description": "Build and deploy a simple hello world smart contract using our contract kit!",
+    "created_at": "2022-06-15T00:12:56Z",
+    "updated_at": "2022-12-18T21:01:21Z",
+    "clone_url": "https://github.com/web3sdks-template/solidity-hello-world.git",
+    "topics": [
+      "blockchain",
+      "contract-kit",
+      "ethereum",
+      "extensions",
+      "solidity",
+      "web3sdks-deploy"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 1,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "web3sdks-auth-express",
+    "html_url": "https://github.com/web3sdks-template/web3sdks-auth-express",
+    "description": "Enable wallet-based login with web3sdks Auth & Express",
+    "created_at": "2022-08-19T15:40:00Z",
+    "updated_at": "2022-09-29T01:26:31Z",
+    "clone_url": "https://github.com/web3sdks-template/web3sdks-auth-express.git",
+    "topics": [
+      "auth"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 1,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "web3sdks-auth-fiber",
+    "html_url": "https://github.com/web3sdks-template/web3sdks-auth-fiber",
+    "description": "Enable wallet-based login with web3sdks Auth & Fiber",
+    "created_at": "2022-08-30T00:08:03Z",
+    "updated_at": "2022-09-29T01:26:37Z",
+    "clone_url": "https://github.com/web3sdks-template/web3sdks-auth-fiber.git",
+    "topics": [
+      "auth"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 1,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "web3sdks-auth-flask",
+    "html_url": "https://github.com/web3sdks-template/web3sdks-auth-flask",
+    "description": "Enable wallet-based login with web3sdks Auth & Flask",
+    "created_at": "2022-08-30T00:17:55Z",
+    "updated_at": "2022-09-29T01:26:46Z",
+    "clone_url": "https://github.com/web3sdks-template/web3sdks-auth-flask.git",
+    "topics": [
+      "auth",
+      "flask",
+      "python"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 1,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "web3sdks-auth-next",
+    "html_url": "https://github.com/web3sdks-template/web3sdks-auth-next",
+    "description": "Enable wallet-based login with web3sdks Auth & Next",
+    "created_at": "2022-08-18T20:13:40Z",
+    "updated_at": "2022-12-14T06:13:04Z",
+    "clone_url": "https://github.com/web3sdks-template/web3sdks-auth-next.git",
+    "topics": [
+      "auth"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 6,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "web3sdks-auth-next-auth",
+    "html_url": "https://github.com/web3sdks-template/web3sdks-auth-next-auth",
+    "description": "Enable wallet-based login with web3sdks Auth & Next Auth",
+    "created_at": "2022-08-30T21:44:52Z",
+    "updated_at": "2022-12-17T17:29:35Z",
+    "clone_url": "https://github.com/web3sdks-template/web3sdks-auth-next-auth.git",
+    "topics": [
+      "auth",
+      "nextauth"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 4,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "web3sdks-auth-solana-next",
+    "html_url": "https://github.com/web3sdks-template/web3sdks-auth-solana-next",
+    "description": "Enable wallet-based login for Solana wallets with web3sdks Auth & Next",
+    "created_at": "2022-10-07T21:06:39Z",
+    "updated_at": "2022-10-12T02:19:15Z",
+    "clone_url": "https://github.com/web3sdks-template/web3sdks-auth-solana-next.git",
+    "topics": [
+      "solana"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "web3sdks-auth-supabase",
+    "html_url": "https://github.com/web3sdks-template/web3sdks-auth-supabase",
+    "description": "Enable users to login to your backend with their wallet, and store users in supabase. ",
+    "created_at": "2022-08-19T19:02:16Z",
+    "updated_at": "2022-11-23T07:09:48Z",
+    "clone_url": "https://github.com/web3sdks-template/web3sdks-auth-supabase.git",
+    "topics": [
+      "auth",
+      "supabase",
+      "web2"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 6,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "web3sdks-bundlr",
+    "html_url": "https://github.com/web3sdks-template/web3sdks-bundlr",
+    "description": "Decentralized NFT metadata storage using Bundlr",
+    "created_at": "2022-12-16T19:27:19Z",
+    "updated_at": "2022-12-20T15:38:19Z",
+    "clone_url": "https://github.com/web3sdks-template/web3sdks-bundlr.git",
+    "topics": [],
+    "language": "TypeScript",
+    "stargazers_count": 2,
+    "is_template": false,
+    "homepage": null
+  },
+  {
+    "name": "web3sdks-stripe",
+    "html_url": "https://github.com/web3sdks-template/web3sdks-stripe",
+    "description": "Subscription based payments for web3 apps using web3sdks authentication and stripe",
+    "created_at": "2022-06-19T02:19:09Z",
+    "updated_at": "2022-12-14T06:07:25Z",
+    "clone_url": "https://github.com/web3sdks-template/web3sdks-stripe.git",
+    "topics": [
+      "auth",
+      "stripe"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 28,
+    "is_template": false,
+    "homepage": ""
+  },
+  {
+    "name": "todo-list",
+    "html_url": "https://github.com/web3sdks-template/todo-list",
+    "description": "Build a simple todo list by building and interacting with a smart contract!",
+    "created_at": "2022-09-12T01:57:30Z",
+    "updated_at": "2022-09-29T01:19:40Z",
+    "clone_url": "https://github.com/web3sdks-template/todo-list.git",
+    "topics": [
+      "contract-kit",
+      "extensions"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 1,
+    "is_template": false,
+    "homepage": "https://todo-list.web3sdks-template.com/"
+  },
+  {
+    "name": "token-drop",
+    "html_url": "https://github.com/web3sdks-template/token-drop",
+    "description": "Release your token with claim conditions for a price using web3sdks's Token Drop contract",
+    "created_at": "2022-05-25T04:05:25Z",
+    "updated_at": "2022-12-02T02:58:10Z",
+    "clone_url": "https://github.com/web3sdks-template/token-drop.git",
+    "topics": [
+      "token-drop"
+    ],
+    "language": "TypeScript",
+    "stargazers_count": 5,
+    "is_template": false,
+    "homepage": "https://token-drop.web3sdks-template.com"
+  },
+  {
+    "name": "unity-guides",
+    "html_url": "https://github.com/web3sdks-template/unity-guides",
+    "description": null,
+    "created_at": "2022-11-16T02:26:10Z",
+    "updated_at": "2022-11-17T03:21:05Z",
+    "clone_url": "https://github.com/web3sdks-template/unity-guides.git",
+    "topics": [],
+    "language": null,
+    "stargazers_count": 0,
+    "is_template": false,
+    "homepage": null
+  },
+  {
+    "name": "unity-karting-game",
+    "html_url": "https://github.com/web3sdks-template/unity-karting-game",
+    "description": "Purchase Vehicle NFTs from an in-game marketplace and start earning ERC20 tokens used to buy upgrades!",
+    "created_at": "2022-11-28T07:07:24Z",
+    "updated_at": "2022-12-13T23:41:27Z",
+    "clone_url": "https://github.com/web3sdks-template/unity-karting-game.git",
+    "topics": [
+      "gaming"
+    ],
+    "language": "C#",
+    "stargazers_count": 2,
+    "is_template": false,
+    "homepage": "https://unity-karting-game.web3sdks-template.com"
+  },
+  {
+    "name": "unity-nft-lootboxes",
+    "html_url": "https://github.com/web3sdks-template/unity-nft-lootboxes",
+    "description": "Purchase NFT loot boxes from a marketplace and open them to reveal randomly selected NFTs inside!",
+    "created_at": "2022-11-30T04:22:51Z",
+    "updated_at": "2022-12-08T23:32:17Z",
+    "clone_url": "https://github.com/web3sdks-template/unity-nft-lootboxes.git",
+    "topics": [
+      "gaming"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 2,
+    "is_template": false,
+    "homepage": "https://unity-nft-lootboxes.web3sdks-template.com"
+  },
+  {
+    "name": "unity-rpg-game",
+    "html_url": "https://github.com/web3sdks-template/unity-rpg-game",
+    "description": "Speak with NPCs and complete quests to earn ERC20 tokens which you can use to buy NFTs from the in-game shop!",
+    "created_at": "2022-11-28T07:08:09Z",
+    "updated_at": "2022-12-13T05:29:19Z",
+    "clone_url": "https://github.com/web3sdks-template/unity-rpg-game.git",
+    "topics": [],
+    "language": "C#",
+    "stargazers_count": 2,
+    "is_template": false,
+    "homepage": "https://unity-rpg-game.web3sdks-template.com"
+  },
+  {
+    "name": "unity-vr",
+    "html_url": "https://github.com/web3sdks-template/unity-vr",
+    "description": "Create VR Games in Unity using GamingKit",
+    "created_at": "2022-12-07T06:21:33Z",
+    "updated_at": "2022-12-08T18:05:18Z",
+    "clone_url": "https://github.com/web3sdks-template/unity-vr.git",
+    "topics": [
+      "gaming",
+      "gamingkit"
+    ],
+    "language": "C#",
+    "stargazers_count": 1,
+    "is_template": false,
+    "homepage": "https://unity-vr.web3sdks-template.com"
+  },
+  {
+    "name": "unlock-subscribe",
+    "html_url": "https://github.com/web3sdks-template/unlock-subscribe",
+    "description": "Build a simple on-chain subscription model into your app using the Lock contract by Unlock",
+    "created_at": "2022-12-01T17:35:46Z",
+    "updated_at": "2022-12-16T22:10:31Z",
+    "clone_url": "https://github.com/web3sdks-template/unlock-subscribe.git",
+    "topics": [],
+    "language": "CSS",
+    "stargazers_count": 2,
+    "is_template": false,
+    "homepage": "https://unlock-subscribe.web3sdks-template.com/"
+  },
+  {
+    "name": "updatable-nft-metadata",
+    "html_url": "https://github.com/web3sdks-template/updatable-nft-metadata",
+    "description": null,
+    "created_at": "2022-11-08T03:48:09Z",
+    "updated_at": "2022-11-08T06:02:12Z",
+    "clone_url": "https://github.com/web3sdks-template/updatable-nft-metadata.git",
+    "topics": [],
+    "language": "JavaScript",
+    "stargazers_count": 1,
+    "is_template": false,
+    "homepage": null
+  },
+  {
+    "name": "vite-javascript-starter",
+    "html_url": "https://github.com/web3sdks-template/vite-javascript-starter",
+    "description": "web3sdks starter project with Vite & JavaScript",
+    "created_at": "2022-03-18T17:33:24Z",
+    "updated_at": "2022-11-23T02:40:06Z",
+    "clone_url": "https://github.com/web3sdks-template/vite-javascript-starter.git",
+    "topics": [
+      "javascript",
+      "react",
+      "reactjs",
+      "starter-kit",
+      "vite"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 3,
+    "is_template": true,
+    "homepage": "https://vite-javascript-starter.web3sdks-template.com"
+  },
+  {
+    "name": "vite-typescript-starter",
+    "html_url": "https://github.com/web3sdks-template/vite-typescript-starter",
+    "description": "web3sdks starter project with Vite & TypeScript",
+    "created_at": "2022-03-18T00:47:03Z",
+    "updated_at": "2022-11-03T23:08:51Z",
+    "clone_url": "https://github.com/web3sdks-template/vite-typescript-starter.git",
+    "topics": [
+      "react",
+      "reactjs",
+      "starter-kit",
+      "typescript",
+      "vite"
+    ],
+    "language": "CSS",
+    "stargazers_count": 4,
+    "is_template": true,
+    "homepage": "https://vite-typescript-starter.web3sdks-template.com"
+  },
+  {
+    "name": "web3button",
+    "html_url": "https://github.com/web3sdks-template/web3button",
+    "description": "Learn how to use the Web3Button component from the web3sdks React SDK!",
+    "created_at": "2022-08-20T00:27:11Z",
+    "updated_at": "2022-12-14T06:14:49Z",
+    "clone_url": "https://github.com/web3sdks-template/web3button.git",
+    "topics": [
+      "ui-components"
+    ],
+    "language": "JavaScript",
+    "stargazers_count": 12,
+    "is_template": false,
+    "homepage": "https://web3button.web3sdks-template.com/"
+  }
+]
